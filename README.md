@@ -1,10 +1,8 @@
-# DriveGaze-Object-A-Driver-Face-Scene-Gaze-Object-Dataset
-We created a benchmark dataset, DriveGaze-Object, a Driver Face–Scene Gaze Object Dataset comprising synchronized driver face images, forward scene images, detected object bounding box coordinates in the scene, and the corresponding ground truth gaze object.
-# Urban Driving-Face Scene Gaze (UD-FSG) Dataset 
-This repository consists of description about the UD-FSG Dataset along with sample data and the contact details to acces the dataset. 
+# DriveGaze-Object: Driver-Face-Scene-Gaze-Object-Dataset
+This repository consists of a benchmark dataset, DriveGaze-Object, a Driver Face–Scene Gaze Object Dataset comprising synchronized driver face images, forward scene images, detected object bounding box coordinates in the scene, and the corresponding ground truth gaze object.
 
-## Description about UD-FSG Dataset 
-Urban Driving–Face Scene Gaze (UD-FSG) dataset is a large- scale benchmark real driving gaze dataset comprising data from 35 drivers, which includes 3,73,488 driver face and scene image pairs along with 2D gaze ground truth coordinates. The data was collected in Kanpur city on Arterial and Sub-Arterial roads to include the variation in Traffic densities and different times of the day to account traffic light conditions on the driver face. Each driver drove approx 1 hours driving, covering approx 30-35 KM distance. The data was collected in Two phase in the year 2024 and 2025 to include the variations in weather conditions. 
+## Description about DriveGaze-Object 
+Driver-Face-Scene-Gaze-Object-Dataset dataset is a large- scale benchmark real driving gaze dataset comprising data from 35 drivers, which includes 3,73,488 driver face and scene image pairs along with 2D gaze ground truth coordinates. The data was collected in Kanpur city on Arterial and Sub-Arterial roads to include the variation in Traffic densities and different times of the day to account traffic light conditions on the driver face. Each driver drove approx 1 hours driving, covering approx 30-35 KM distance. The data was collected in Two phase in the year 2024 and 2025 to include the variations in weather conditions. 
 
 The data was collected using Transportation Engineering Lab Instrumented Vehicle which consists of several sensors as shown in below Figure.
 
