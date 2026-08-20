@@ -20,10 +20,9 @@ The dataset is freely available for research purposes only and must not be used 
 For Driver Point-of-Gaze Estimation only Dashboard Face Camera, Dashboard Scene Camera and Eye Tracker Data is Used. 
 
 ### Data Sample
+ <img width="3852" height="2371" alt="Data Sample1" src="https://github.com/user-attachments/assets/5f62f6ca-2f2c-48bc-b6a8-7abb00a90b44" />
 ![Data_Sample1](https://github.com/user-attachments/assets/e3f5d363-c7d4-4b16-bd5a-4099ffd5b87e)
-Sample of UD-FSG Dataset consist of different pairs Face-Scene image, collected in different traffic densities and lighting conditions. 
-<img width="3852" height="2371" alt="Data Sample1" src="https://github.com/user-attachments/assets/5f62f6ca-2f2c-48bc-b6a8-7abb00a90b44" />
-
+Sample image of DriveGaze-Object: Driver face Scene Gaze Object Dataset, collected in different traffic densities and lighting conditions.
 
 
 
